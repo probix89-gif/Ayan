@@ -19,7 +19,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Configuration
-TOKEN = "bottkn"
+TOKEN = "8217450726:AAFktdrdVRvB1rN-Zjm1Z_trTAwqEzBdhjU"
 MAX_FILE_SIZE = 20 * 1024 * 1024  # 10MB limit
 
 # Logging setup
